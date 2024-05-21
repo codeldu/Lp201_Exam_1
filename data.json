@@ -1,0 +1,42 @@
+{
+  "api": [
+    {
+      "id": 1,
+      "name": "Samsung",
+      "price": "16.96",
+      "year": 2010
+    },
+    {
+      "id": 2,
+      "name": "Motorola",
+      "price": "11.40",
+      "year": 2000
+    },
+    {
+      "name": "iPhone",
+      "price": "254",
+      "year": "2014",
+      "id": 3
+    },
+    {
+      "name": "iPad",
+      "price": "478",
+      "year": "2104",
+      "id": 4
+    }
+  ],
+  "favorites": [
+    {
+      "id": 1,
+      "name": "Samsung",
+      "price": "16.96",
+      "year": 2010
+    },
+    {
+      "id": 2,
+      "name": "Motorola",
+      "price": "11.40",
+      "year": 2000
+    }
+  ]
+}
